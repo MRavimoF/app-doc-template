@@ -10,6 +10,21 @@ Developers are the main audience of the application document. Most importantly t
 - Architects  
 Documentation should provide the architects with adequate high level overview of the application. 
 
+## Solution architecture
+
+Solution architecture describes high level architecture of the solution. It gives reader a quick overview of what are the related systems and their responsibilities and what are the main business functionalities provided by the solution.
+
+### System context diagram
+
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
+
+
 
 
 
