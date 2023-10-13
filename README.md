@@ -16,6 +16,9 @@ Solution architecture describes high level architecture of the solution. It give
 
 ### System context diagram
 
+System context diagram shows the system in scope and its relationship with users and other systems.
+
+
 ```mermaid
   graph TD;
       A-->B;
@@ -70,8 +73,21 @@ Solution architecture describes high level architecture of the solution. It give
 
 ```
 
+# Deployment architecture
 
+Where is this shit running?
 
+# Developer documentation
+
+## Crucial links
+
+Links to app running in different envs
+
+## Releasing
+
+How to release? How to do hot fix?
+
+### CI setup
 
 
 
